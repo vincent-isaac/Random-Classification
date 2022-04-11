@@ -28,4 +28,4 @@ RegisterNumber :
 
 
 ## Result:
-Thus the program to implement the random classifier is written and verified using python programming.
+Thus the random classifier was successfully implemented using python programming.
